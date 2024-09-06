@@ -1,0 +1,5 @@
+TrafficLights    KEYWORD1
+setRed           KEYWORD2
+setYellow        KEYWORD2
+setGreen         KEYWORD2
+cycleLights      KEYWORD2
